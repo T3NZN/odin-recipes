@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+
+.main-container {
+	display: flex;
+	gap: 10px;
+}
+
+h3,
+h4 {
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+}
+
+p {
+	text-align: center;
+}
