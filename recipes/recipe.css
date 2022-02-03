@@ -1,7 +1,16 @@
+body {
+	background-color: #f0fff0;
+}
+
 h1 {
 	text-align: center;
-	border: 1px solid gray;
+	border: 1px solid #808080;
 	border-radius: 5px;
+}
+
+.lasagna,
+.pancake {
+	margin-top: 50px;
 }
 
 .main-container {
@@ -11,11 +20,12 @@ h1 {
 
 h3,
 h4 {
-	color: blue;
-	text-align: center;
+	margin-left: 25px;
+	color: #0000ff;
 	text-decoration: underline;
 }
 
-p {
-	text-align: center;
+p,
+a {
+	margin-left: 25px;
 }
